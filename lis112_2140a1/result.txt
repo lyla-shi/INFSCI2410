@@ -1,0 +1,5 @@
+The program can successfully generate the result.
+totaly text document count:  503473
+text corpus running time: 18.438166666666667 min
+totaly web document count:  198361
+web corpus running time: 12.314566666666666 min

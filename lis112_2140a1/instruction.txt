@@ -1,0 +1,1 @@
+Put "docset.trectext" and "docset.trecweb" in the "lis112_2140a1\src-java\data\output" folder and put "stopword.txt" in the "lis112_2140a1\src-java\data\input" folder. Then open the file as a program and run "HW1Main" file. Then it will process the data from data document and automatically store the outcome in the output file folder.
